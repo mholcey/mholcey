@@ -19,4 +19,4 @@ as well as growing deeper knowledge of SQL and Python and even gaining new skill
 
 - 💞️ I’m looking to collaborate on some projects using SQL, Python and Tableau to showcase skills as well as tell the story that data provides.
 
-- 📫 You can connect with me on LinkedIn here: https://www.linkedin.com/in/michelle-h-825053176/
+- 📫 You can connect with me on LinkedIn here: https://www.linkedin.com/in/mhdac/
