@@ -1,12 +1,6 @@
-- 👋 Hi there! I'm Michelle Holcey. I am pivoting my career as a result of the Covid Pandemic. I spent 25 years in the travel industry, with the most recent 2 years as a
-software developer (programming with Visual Basic proprietary to the company) for the automation of travel for a travel management firm. 
+- 👋 Hi there! I'm Michelle Holcey. I am a seasoned professional with 25 years in the travel industry from government, military, leisure and corporate travel to becoming a developer for the automation of travel. My first programming language that I learned for my job was Visual Basic. Since then, I decided to learn Python, SQL and a variety of other skills. I have seriously been on an upskilling binge!  
 
-Fun fact that some may not realize is that travel agents acutally use many different coding 
-languages to speak to the platform that is used for each global distribution systems (network system used to book travel). Sabre was my "coding language" that I used for 
-over 20 years and also have familiarity with Apollo, Worldspan and Galileo and Amadeus. 
-
-Summer of 2020 ~ I decided to take some courses on Udemy, edX and Coursera to broaden my skillset and knowledge base for possible new career opportunities in the Technology field.
-The following areas were of interest to me, so these are the skills that I decided to gain certiicates in, or complete modules or even just complete the course bootcmps:
+Summer of 2020 ~ I completed the following courses on Udemy, edX and Coursera just to name a few:
 
 CompTIA Security + SYO-501 (Total Seminars with Mike Myers)
 Amazon Web Services - Certified Cloud Practitioner
@@ -16,10 +10,7 @@ PYO101EN Python Basics for Data Science using IBM Watson Studio on edX
 University of Michigan's "Python for Everybody" on Coursera
 Google IT Technical Support Fundamentals
 
-Which lead me to where I am currently which is a Data Analytics Fellow with Springboard (6 month immersive course) I complete the course June 2021:
-
-Springboard Data Analytics Career Track consists of 400+ hours of hands-on course material, with 1:1 industry expert mentor oversight, and completion of 2 in-depth 
-capstone projects. Mastering skills in analyzing business problems, data analysis, presenting business insights to different stakeholders, SQL, Python, and data visualization.
+I am currently enrolled in the Springboard Data Analytics Career Track, which consists of 400+ hours of hands-on course material, with 1:1 industry expert mentor oversight, and completion of 2 in-depth capstone projects. Mastering skills in analyzing business problems, data analysis, presenting business insights to different stakeholders, SQL, Python, and data visualization. 
 
 - 👀 I recently created some Vizzes that you can view on Tableau Public using this link: https://public.tableau.com/profile/michelle.holcey8178#!/
 
