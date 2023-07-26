@@ -27,8 +27,7 @@ Also, I attended a bootcamp and received a Certificate from Springboard for the 
   
 - 💞️ I’m here to connect, swap stories, share knowledge and be a mentor or cheerleader whenever ~ wherever!
 
-- 📫 You can connect with me on LinkedIn and Trailhead:
-      www.linkedin.com/in/michelle-salesforce
-      https://trailblazer.me/id/mholcey1
+- 📫 You can connect with me on LinkedIn: www.linkedin.com/in/michelle-salesforce
+      and Trailhead: https://trailblazer.me/id/mholcey1
 
 
